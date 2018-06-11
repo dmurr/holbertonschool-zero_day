@@ -1,0 +1,1 @@
+This project involved creating a Virtual Machine using Vagrant and downloading git into it. This allowed me to push a directory with a file and README's to github.
