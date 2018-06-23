@@ -1,1 +1,1 @@
-This project is about learning to use common emacs commands such as openning and saving files.
+Beginner commands in the emacs editor.
