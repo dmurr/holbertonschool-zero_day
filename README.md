@@ -1,1 +1,5 @@
-This project involved creating a Virtual Machine using Vagrant and downloading git into it. This allowed me to push a directory with a file and README's to github.
+Built a virtual machine using Vagrant and Virtualbox.
+Downloaded git and pushed first directory and files.
+Always have meaningful commit messages.
+Always create READMEs in each directory.
+Emacs is better than vi
